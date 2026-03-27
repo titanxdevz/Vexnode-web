@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://vexanode.cloud/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Free Lavalink Pages -->
+  <url>
+    <loc>https://vexanode.cloud/service/public-lavalink</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Premium Lavalink Services -->
+  <url>
+    <loc>https://vexanode.cloud/service/premium-lavalink</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- India Lavalink -->
+  <url>
+    <loc>https://vexanode.cloud/service/india-lavalink</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- USA Lavalink -->
+  <url>
+    <loc>https://vexanode.cloud/service/usa-lavalink</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Lavalink v4 -->
+  <url>
+    <loc>https://vexanode.cloud/service/lavalink-v4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Discord Bot Hosting -->
+  <url>
+    <loc>https://vexanode.cloud/service/discord-bot-hosting</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Free Discord Bot Hosting -->
+  <url>
+    <loc>https://vexanode.cloud/service/free-bot-hosting</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- VPS Hosting -->
+  <url>
+    <loc>https://vexanode.cloud/service/global-vps</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- India VPS -->
+  <url>
+    <loc>https://vexanode.cloud/service/india-vps</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- USA VPS -->
+  <url>
+    <loc>https://vexanode.cloud/service/usa-vps</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Global Cloud -->
+  <url>
+    <loc>https://vexanode.cloud/service/global-cloud</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Database Hosting -->
+  <url>
+    <loc>https://vexanode.cloud/service/database-hosting</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Minecraft Hosting -->
+  <url>
+    <loc>https://vexanode.cloud/service/minecraft</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Pricing Page -->
+  <url>
+    <loc>https://vexanode.cloud/pricing</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Blog Section -->
+  <url>
+    <loc>https://vexanode.cloud/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://vexanode.cloud/legal/terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <url>
+    <loc>https://vexanode.cloud/legal/privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <url>
+    <loc>https://vexanode.cloud/legal/refund</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <url>
+    <loc>https://vexanode.cloud/legal/sla</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <url>
+    <loc>https://vexanode.cloud/legal/fair-usage</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Billing/Client Area -->
+  <url>
+    <loc>https://billing.vexanode.cloud</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+
+  <!-- Discord Community -->
+  <url>
+    <loc>https://discord.vexanode.cloud</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+</urlset>
